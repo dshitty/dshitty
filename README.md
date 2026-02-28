@@ -37,18 +37,9 @@
 ## 📊 GitHub Contributions & Stats
 
 
-<p align="center" style="background: linear-gradient(135deg, #ff6ec7, #8338ec); padding: 20px; border-radius: 25px; display: inline-block;">
-  <img src="https://ghchart.rshah.org/dshitty" alt="Darshan's GitHub Contributions" width="700" style="border-radius: 20px;"/>
-</p>
-
-<p align="center">
-  <!-- Contribution streak badge -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dshitty&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
-
-<p align="center">
-  <!-- Top languages badge -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshitty&layout=compact&theme=radical&hide_border=true&border_radius=15" />
+<p align="center" style="margin-top: 15px;">
+  <!-- Contribution streak badge with gradient background -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dshitty&theme=tokyonight&hide_border=true&border_radius=15" style="box-shadow: 0 0 15px rgba(255,110,199,0.4);" />
 </p>
 
 ---
