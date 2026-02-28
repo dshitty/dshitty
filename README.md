@@ -9,7 +9,7 @@
 
 ## 🌈 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=ff6ec7&width=650&lines=🎵+Music+Lover;💻+Coding+Enthusiast;✍️+Songwriter;🏡+Homebody+Vibes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=ff6ec7&width=650&lines=🎵+Music+Enthusiast;💻+Coding+Enthusiast;🏡+Homebody+Vibes" />
 </p>
 
 - 🎵 Fan of **The Beatles, Queen, Pink Floyd, David Bowie, My Chemical Romance, Olivia Rodrigo, Daniel Caesar**  
@@ -31,20 +31,24 @@
 
 ---
 
-## 💻 Coding Skills (Animated Bars)
-<p align="center">
-  React: <img src="https://progress-bar.dev/80/?title=React&color=61DAFB&style=for-the-badge" /> <br/>
-  JavaScript: <img src="https://progress-bar.dev/85/?title=JS&color=F7DF1E&style=for-the-badge" /> <br/>
-  TailwindCSS: <img src="https://progress-bar.dev/75/?title=Tailwind&color=38B2AC&style=for-the-badge" /> <br/>
-  Python: <img src="https://progress-bar.dev/60/?title=Python&color=3776AB&style=for-the-badge" /> <br/>
-</p>
+
 
 ---
+## 📊 GitHub Contributions & Stats
 
-## 🔥 GitHub Stats
+
+<p align="center" style="background: linear-gradient(135deg, #ff6ec7, #8338ec); padding: 20px; border-radius: 25px; display: inline-block;">
+  <img src="https://ghchart.rshah.org/dshitty" alt="Darshan's GitHub Contributions" width="700" style="border-radius: 20px;"/>
+</p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+  <!-- Contribution streak badge -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dshitty&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <!-- Top languages badge -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshitty&layout=compact&theme=radical&hide_border=true&border_radius=15" />
 </p>
 
 ---
