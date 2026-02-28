@@ -1,8 +1,8 @@
-<h1 align="center">🌌 Darshan Chhantyal 👨‍💻🎧</h1>
-<h3 align="center">IT Student | Music Lover | Creative Coder</h3>
+
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff6ec7&style=plastic" alt="Profile Views" />
+  <img src="49af2056717bdc97ea295b1329ad294b-ezgif.com-gif-maker.gif" alt="Profile Views" />
 </p>
 
 ---
