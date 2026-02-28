@@ -1,15 +1,15 @@
 
 
-
 <p align="center">
-  <img src="49af2056717bdc97ea295b1329ad294b-ezgif.com-gif-maker.gif" alt="Profile Views" />
+  <img src="49af2056717bdc97ea295b1329ad294b-ezgif.com-gif-maker.gif" alt="error" />
 </p>
 
 ---
 
 
-## 🌈 About Me
-<p align="center" style="text-align:center;">
+## 🌈 About Me  <p align="center">👋 Hi, I'm Darshan Chhantyal </p>
+
+<p  style="text-align:center;">
   <span style="display:inline-block; margin-left:80px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=ff6ec7&width=650&lines=🔧+Fullstack+Developer;💻+Passionate+Coder;🤖+AI/ML+Enthusiast;🎵+Music+Enthusiast;" />
   </span>
@@ -44,28 +44,35 @@
 <span style="display:block; background:linear-gradient(135deg, #a18cd1, #fbc2eb); padding:20px; border-radius:20px; margin:15px auto; width:80%; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
   <h3 style="margin:0; color:white;">Backend</h3>
   <hr style="border:1px solid rgba(255,255,255,0.5); margin:10px 0;" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+  </div>
 </span>
 
 <!-- Database Panel -->
 <span style="display:block; background:linear-gradient(135deg, #f6d365, #fda085); padding:20px; border-radius:20px; margin:15px auto; width:80%; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
   <h3 style="margin:0; color:white;">Database</h3>
   <hr style="border:1px solid rgba(255,255,255,0.5); margin:10px 0;" />
-  <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
+  </div>
 </span>
 
-<!-- AI / ML Panel -->
-<!-- <span style="display:block; background:linear-gradient(135deg, #ff758c, #ff7eb3); padding:20px; border-radius:20px; margin:15px auto; width:80%; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
-  <h3 style="margin:0; color:white;">AI / ML</h3>
+<!-- Languages Panel -->
+<span style="display:block; background:linear-gradient(135deg, #43e97b, #38f9d7); padding:20px; border-radius:20px; margin:15px auto; width:80%; box-shadow:0 5px 20px rgba(0,0,0,0.2);">
+  <h3 style="margin:0; color:white;">Languages</h3>
   <hr style="border:1px solid rgba(255,255,255,0.5); margin:10px 0;" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</span> -->
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
+  </div>
+</span>
 
 </p>
 
